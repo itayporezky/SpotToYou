@@ -1,0 +1,13 @@
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.exe
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.deps.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.runtimeconfig.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.runtimeconfig.dev.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.dll
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.pdb
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.csprojAssemblyReference.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.csproj.CoreCompileInputs.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.AssemblyInfoInputs.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.AssemblyInfo.cs
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.dll
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.pdb
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube.SpotifyData\obj\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.genruntimeconfig.cache

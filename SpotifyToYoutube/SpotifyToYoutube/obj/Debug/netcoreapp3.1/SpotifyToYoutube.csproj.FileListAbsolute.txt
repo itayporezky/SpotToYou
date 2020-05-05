@@ -1,0 +1,17 @@
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.exe
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.deps.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.runtimeconfig.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.runtimeconfig.dev.json
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.dll
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.pdb
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.csprojAssemblyReference.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.csproj.CoreCompileInputs.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.AssemblyInfoInputs.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.AssemblyInfo.cs
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.dll
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.pdb
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.genruntimeconfig.cache
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.exe
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.dll
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\bin\Debug\netcoreapp3.1\SpotifyToYoutube.SpotifyData.pdb
+D:\Projects\SpotifyToYotube\SpotifyToYoutube\SpotifyToYoutube\obj\Debug\netcoreapp3.1\SpotifyToYoutube.csproj.CopyComplete
